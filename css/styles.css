@@ -40,6 +40,9 @@ img {
   background-color: #8ece17;
   display: block; }
 
+.table-row {
+  display: none; }
+
 @media (max-width: 880px) {
   .navbar-header {
     float: none; }
