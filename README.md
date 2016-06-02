@@ -5,11 +5,11 @@ The task is to build from the mocup supplied the test page as a fully responsive
 ##Technologies used:
 
 *HTML5
-*Bootstrap 3.3.6
-*CSS3/SASS
-*JavaScript
-*jQuery
-*JSON
+*Bootstrap 3.3.6 < /br>
+*CSS3/SASS < /br>
+*JavaScript < /br>
+*jQuery < /br>
+*JSON < /br>
 *DataTables - JavaScript to create complex tables with customized functionalities as the suplied csv file had over 8591 records. 
 
 
