@@ -61,7 +61,7 @@
       <p> <strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</strong></p>
       <h3>Call data table</h3>
       <p>The table below shows an example of the call data we gather for each office in use, to see more please click the button below.</p>
-      <button type="button" class="btn btn-default">Hide/Show table</button>
+      <button type="button" class="btn-text btn btn-default">Show Table</button>
     </div>
     <div class="row">
       <div class="table-row col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
@@ -111,7 +111,19 @@ $( document ).ready(function() {
 
     $( "button" ).click(function() {
   $( ".table-row" ).slideToggle( "slow" );
-});   
+});
+  
+  $('.btn-text').click(function(){
+    var $this = $(this).toggleClass('btn-text');
+       if($(this).hasClass('btn-text'))
+               {
+             $(this).text('Show Table');
+
+           } else {
+             $(this).text('Hide Table');
+               }
+});
+
 });
 </script>
 </body>
