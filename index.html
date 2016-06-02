@@ -65,7 +65,7 @@
     </div>
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
-        <table class="table table-bordered table-responsive">
+        <table id="essensysTable" class="table table-bordered table-responsive">
           <thead>
             <tr>
               <th>Customer CLI</th>
@@ -94,6 +94,21 @@
   </div>
 </div>
 
-
+<script type="text/javascript">
+$( document ).ready(function() {
+    $('#essensysTable').dataTable({
+        "ajax": "./js/data.json",
+        "columns": [
+            {"data": "customer_cli"},
+            {"data": "telephone_number"},
+            {"data": "call_date"},
+            {"data": "call_time"},
+            {"data": "duration"},
+            {"data": "uk_national"},
+            {"data": "time_band"}
+        ]
+    });   
+});
+</script>
 </body>
 </html>
