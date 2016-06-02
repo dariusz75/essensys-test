@@ -1,0 +1,445 @@
+{
+  "data": [
+		{
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07714950612",
+		    "Call Date": "23/11/2015",
+		    "Call Time": "12:24:28",
+		    "Duration": "00:00:11",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01273675556",
+		    "Call Date": "24/11/2015",
+		    "Call Time": "11:35:37",
+		    "Duration": "00:00:26",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02073833200",
+		    "Call Date": "24/11/2015",
+		    "Call Time": "15:39:21",
+		    "Duration": "00:00:17",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01789470476",
+		    "Call Date": "25/11/2015",
+		    "Call Time": "09:39:54",
+		    "Duration": "00:07:14",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "0035020006029",
+		    "Call Date": "25/11/2015",
+		    "Call Time": "11:35:56",
+		    "Duration": "00:00:06",
+		    "UK National": "SPAIN",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02073833200",
+		    "Call Date": "25/11/2015",
+		    "Call Time": "11:49:54",
+		    "Duration": "00:00:54",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01789470476",
+		    "Call Date": "25/11/2015",
+		    "Call Time": "12:18:50",
+		    "Duration": "00:00:07",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "08443585862",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "08:07:55",
+		    "Duration": "00:00:07",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "08443585862",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "08:08:19",
+		    "Duration": "00:00:07",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07584883845",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "11:32:58",
+		    "Duration": "00:01:00",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07970603306",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "11:44:46",
+		    "Duration": "00:01:08",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "03304401800",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "11:54:02",
+		    "Duration": "00:00:06",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "03304401800",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "11:55:56",
+		    "Duration": "00:00:32",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01789470476",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "11:59:26",
+		    "Duration": "00:01:10",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01923851890",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "14:22:56",
+		    "Duration": "00:01:08",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07714950612",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "14:28:58",
+		    "Duration": "00:01:02",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02073833200",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "14:38:40",
+		    "Duration": "00:01:34",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07471035967",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "14:59:49",
+		    "Duration": "00:00:32",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07733305330",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "15:35:18",
+		    "Duration": "00:00:41",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "0018184169998",
+		    "Call Date": "26/11/2015",
+		    "Call Time": "15:42:53",
+		    "Duration": "00:00:05",
+		    "UK National": "SPAIN",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07500047554",
+		    "Call Date": "27/11/2015",
+		    "Call Time": "10:46:08",
+		    "Duration": "00:07:27",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07966236678",
+		    "Call Date": "27/11/2015",
+		    "Call Time": "11:27:34",
+		    "Duration": "00:00:57",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01252553020",
+		    "Call Date": "27/11/2015",
+		    "Call Time": "12:00:08",
+		    "Duration": "00:02:11",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01276859254",
+		    "Call Date": "27/11/2015",
+		    "Call Time": "12:02:48",
+		    "Duration": "00:00:50",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07927633020",
+		    "Call Date": "27/11/2015",
+		    "Call Time": "15:01:58",
+		    "Duration": "00:10:17",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01923851890",
+		    "Call Date": "27/11/2015",
+		    "Call Time": "16:41:28",
+		    "Duration": "00:00:35",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02089487473",
+		    "Call Date": "27/11/2015",
+		    "Call Time": "17:49:25",
+		    "Duration": "00:00:52",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "0035020006029",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "10:21:04",
+		    "Duration": "00:00:30",
+		    "UK National": "SPAIN",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07740450840",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "10:35:21",
+		    "Duration": "00:01:05",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07533736636",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "10:44:03",
+		    "Duration": "00:00:38",
+		    "UK National": "GERMANY",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07525183777",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "10:52:24",
+		    "Duration": "00:01:02",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02079190375",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "10:59:03",
+		    "Duration": "00:03:38",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02076671000",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "11:26:44",
+		    "Duration": "00:00:37",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01923851890",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "11:45:36",
+		    "Duration": "00:02:41",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02076671000",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "13:50:33",
+		    "Duration": "00:00:42",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02030883390",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "13:59:21",
+		    "Duration": "00:17:08",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01276859254",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "15:09:41",
+		    "Duration": "00:00:16",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01252553020",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "15:22:38",
+		    "Duration": "00:00:50",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02076671000",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "15:33:18",
+		    "Duration": "00:04:09",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01789470476",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "15:55:35",
+		    "Duration": "00:01:21",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "0018003211335",
+		    "Call Date": "30/11/2015",
+		    "Call Time": "17:25:04",
+		    "Duration": "00:01:20",
+		    "UK National": "SPAIN",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02089091008",
+		    "Call Date": "01/12/2015",
+		    "Call Time": "12:18:37",
+		    "Duration": "00:06:23",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01273675556",
+		    "Call Date": "01/12/2015",
+		    "Call Time": "13:55:42",
+		    "Duration": "00:01:18",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01252553020",
+		    "Call Date": "01/12/2015",
+		    "Call Time": "14:27:11",
+		    "Duration": "00:01:39",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "01276859254",
+		    "Call Date": "01/12/2015",
+		    "Call Time": "14:29:05",
+		    "Duration": "00:00:24",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07816647490",
+		    "Call Date": "02/12/2015",
+		    "Call Time": "09:22:57",
+		    "Duration": "00:01:20",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "07584883845",
+		    "Call Date": "02/12/2015",
+		    "Call Time": "09:32:12",
+		    "Duration": "00:01:50",
+		    "UK National": "UK Mobile",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "0041443614751",
+		    "Call Date": "02/12/2015",
+		    "Call Time": "12:00:01",
+		    "Duration": "00:06:59",
+		    "UK National": "SPAIN",
+		    "Time Band": "Peak"
+		  },
+		  {
+		    "Customer CLI": "02031705557",
+		    "Telephone Number": "02073833200",
+		    "Call Date": "02/12/2015",
+		    "Call Time": "14:04:46",
+		    "Duration": "00:03:04",
+		    "UK National": "UK National",
+		    "Time Band": "Peak"
+		  }
+	]
+}

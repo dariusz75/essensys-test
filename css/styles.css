@@ -1,3 +1,6 @@
+* {
+  font-family: 'Raleway', sans-serif; }
+
 .container {
   padding: 0 15%; }
 
@@ -7,8 +10,7 @@
   .navbar ul li a {
     text-transform: uppercase;
     font-size: 10px;
-    padding: 15px 5px;
-    font-family: 'Raleway', sans-serif; }
+    padding: 15px 5px; }
     .navbar ul li a span {
       padding-left: 6px;
       color: #8ece17; }
@@ -28,8 +30,15 @@ h2 {
   padding-left: 0; }
   .text-section-top p, .text-section-bottom p {
     font-size: 1.5rem;
-    font-family: 'Raleway', sans-serif;
     padding-bottom: 20px; }
+
+img {
+  padding-bottom: 15px; }
+
+.btn {
+  margin: 20px auto;
+  background-color: #8ece17;
+  display: block; }
 
 @media (max-width: 880px) {
   .navbar-header {
